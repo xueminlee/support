@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-This Privacy Policy outlines the privacy practices associated with the MiniDev Service and covers our treatment of personal information that we collect when you install a mobile application that uses our Service.
+This Privacy Policy outlines the privacy practices associated with our Service and covers our treatment of personal information that we collect when you install a mobile application that uses our Service.
 
 How We Use and Collect Your Personal Data
 
